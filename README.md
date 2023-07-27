@@ -6,8 +6,6 @@
   - [Description](#project-description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Testing](#testing)
   - [Contact](#contact)
 
 
@@ -46,21 +44,24 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
   
   ## Installation 
-  install instructions
+  Clone the repo, then open the project in VS Code  
+  Insomnia was used to test the API routes (if you do not have it, it is highly recommended to download/install it prior to usage).
+  Open the project in the terminal and use 'npm install' to install all dependencies
 
 
   ## Usage 
-  usage instructions
+  In the terminal use 'npm start' to start the server  
+  Use Insomnia to test the API routes.  
 
+  http://localhost:3001/api/users  
+  http://localhost:3001/api/thoughts  
+  http://localhost:3001/api/users/:id  
+  http://localhost:3001/api/thoughts/:id    
 
-  ## Contribution
-  contribution instructions
-
-
-  ## Testing
-  testing instructions
-
-  
   ## Contact
   Please contact [CML120](https://github.com/CML120) at cheelor922@gmail.com with any questions.
+
+
+https://github.com/CML120/Social-Network-API/assets/126404917/0154c627-9560-4307-85e3-af4503bf0209
+
 
