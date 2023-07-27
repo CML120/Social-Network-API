@@ -1,10 +1,11 @@
 {
   "name": "social-network-api",
   "version": "1.0.0",
-  "description": "## Table of Contents   - [Description](#project-description)   - [Installation](#installation)   - [Usage](#usage)   - [Contribution](#contribution)   - [Testing](#testing)   - [Contact](#contact)",
+  "description": "A social network API built with Express and MongoDB",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
