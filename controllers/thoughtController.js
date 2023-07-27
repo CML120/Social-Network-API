@@ -83,6 +83,7 @@ const addReaction = async (req, res) => {
 
     res.status(200).json(thought);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ error: 'Failed to add a reaction to the thought.' });
   }
 };
