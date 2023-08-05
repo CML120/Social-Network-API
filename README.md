@@ -59,7 +59,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
   http://localhost:3001/api/thoughts/:id    
 
   ## Contact
-  Please contact [CML120](https://github.com/CML120) at cheelor922@gmail.com with any questions.
+  Please contact [CML120](https://github.com/CML120) at cheelor922@gmail.com with any questions.  
 
 
 https://github.com/CML120/Social-Network-API/assets/126404917/0154c627-9560-4307-85e3-af4503bf0209
